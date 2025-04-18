@@ -1,4 +1,4 @@
-const { fetchNumbersFromAPI } = require("../utils/apiClient");
+const { fetchNumbersFromAPI } = require("../utils/client");
 
 const WINDOW_SIZE = 10;
 
